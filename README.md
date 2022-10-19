@@ -17,6 +17,16 @@
 
 - 📄 Know about my experiences [Tasnim Dewan Orin Resume](https://drive.google.com/file/d/16ah9TcY4zapjBNfZhM2aR1VX6CwkWso1/view?usp=sharing)
 
+- :game_die: How I spend my free time
+```mermaid
+pie
+"Coding" : 40
+"Thinking": 10
+"Reading" : 20
+"Socializing": 20
+"Journaling": 10
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alchemistorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alchemistorin" height="30" width="40" /></a>
