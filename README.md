@@ -9,23 +9,14 @@
 
 - 🔭 I’m currently working on [Ruby CheatSheet](https://github.com/lifeparticle/Ruby-Cheatsheet)
 
-- 🌱 I’m currently learning **Javascript, Bulma**
+- 🌱 I’m currently learning ** React**
 
 - 💬 Ask me about **Ruby, Rails**
 
 - 📫 How to reach me **tasnim.dewan.orin@gmail.com**
 
-- 📄 Know about my experiences [Tasnim Dewan Orin Resume](https://drive.google.com/file/d/16ah9TcY4zapjBNfZhM2aR1VX6CwkWso1/view?usp=sharing)
+- 📄 Know about my experiences [Tasnim Dewan Orin Resume](https://drive.google.com/file/d/1lHN8fkaC4jw_QTY-1Ce5ytHqu2BWrQlq/view?usp=sharing)
 
-- :game_die: How I spend my free time
-```mermaid
-pie
-"Coding" : 40
-"Thinking": 10
-"Reading" : 20
-"Socializing": 20
-"Journaling": 10
-```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
