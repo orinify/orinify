@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasnim Dewan Orin</h1>
-<h3 align="center">Passionate, efficient, and proactive Back‐end Software Engineer with 4+ years of industry experience from Bangladesh.</h3>
+<h3 align="center">Passionate, efficient, and proactive Back‐end Software Engineer with 6+ years of industry experience from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orinify&label=Profile%20views&color=0e75b6&style=flat" alt="orinify" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ruby CheatSheet](https://github.com/lifeparticle/Ruby-Cheatsheet)
 
-- 🌱 I’m currently learning ** React**
+- 🌱 I’m currently learning **How to be a Software Architecture**
 
 - 💬 Ask me about **Ruby, Rails**
 
