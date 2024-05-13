@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alchemistorin" target="blank"><img src="https://img.shields.io/twitter/follow/alchemistorin?logo=twitter&style=for-the-badge" alt="alchemistorin" /></a> </p>
 
-- 🔭 I’m currently working on [Ruby CheatSheet](https://github.com/lifeparticle/Ruby-Cheatsheet)
+- 🔭 I’m currently working on rediscovering myself
 
 - 🌱 I’m currently learning **How to be a Software Architecture**
 
